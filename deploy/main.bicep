@@ -83,7 +83,7 @@ module pythonService 'container-http.bicep' = {
         name: registryPassword
         value: containerRegistryPassword
       }
-    ]
+    ] 
   }
 }
 
